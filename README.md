@@ -1,6 +1,6 @@
 # Olá, eu sou o Irã Guimarães 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** (Estácio — previsão de conclusão em Dez/2027) e **Analista de Desenvolvimento de Sistemas na AME-Pará**, com foco em **Engenharia de Software**, automação de processos e aplicação prática de IA.
+Estudante de ADS (previsão: Dez/2027), **focado em desenvolvimento de software com Java, Python, Dart, automação de processos e IA aplicada.**
 
 No dia a dia, atuo na ponte entre negócio e tecnologia (análise de requisitos, testes, validação de sistemas e rotinas em Linux/VPS) e venho consolidando minha base prática em **Java (POO)**, **Python**, **Dart** e fluxos automatizados com **Docker e n8n**.
 
